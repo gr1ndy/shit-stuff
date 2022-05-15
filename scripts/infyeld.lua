@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TismaKcaxx/roblox-scripts/main/infinite%20yield"))();
